@@ -1,22 +1,37 @@
 # chat-mini-appchat app using react js and login page using firebase
 
 
-Quick Start:
+# React Firebase Chat
 
-<br />:git clone
-<br />:cd react-firebase-chat
-<br />:create a firebase config file on /src
-<br />:npm install
-<br />:npm start
-<br />[running project link ](https://chatroom-67e21.web.app/)
+![React Firebase Chat Logo](https://i.imgur.com/nCjKTKs.png)
+
+Welcome to React Firebase Chat, a real-time chat application built using React and Firebase. 
+
+![Screenshot of React Firebase Chat](https://i.imgur.com/9P6KjP6.png)
+
+## Quick Start:
+
+1. Clone the repository: `git clone https://github.com/Kushagrakamal/react-firebase-chat.git`
+2. Navigate to the project directory: `cd react-firebase-chat`
+3. Create a Firebase config file in `/src` directory with your Firebase credentials.
+4. Install dependencies: `npm install`
+5. Start the application: `npm start`
+6. Visit the [running project link](https://chatroom-67e21.web.app/)
+
+## Tech Stack:
+
+- React
+- Firebase
+- HTML
+- CSS
+- JavaScript
+
+## Features:
+
+- Real-time chat functionality
+- Authentication with Google Sign-In
+- User status indicators
+- Mobile responsive design
 
 
-Quick Start:
-
-- :git clone
-- :cd react-firebase-chat
-- :create a firebase config file on /src
-- :npm install
-- :npm start
-- [running project **link**](https://chatroom-67e21.web.app/){:style="color: #36c; text-decoration: none; border-bottom: 1px solid #36c;"}
 
