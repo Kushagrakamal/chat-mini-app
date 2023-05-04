@@ -9,6 +9,4 @@ Quick Start:
 <br />:npm install
 <br />:npm start
 <br />[running project link ](https://chatroom-67e21.web.app/)
-<span style="color:green;font-weight:700;font-size:50px"> 
-[running project link ](https://chatroom-67e21.web.app/)
-</span>
+<span style="color: green"> Some green text </span>
