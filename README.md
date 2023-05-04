@@ -2,13 +2,7 @@
 
 
 # React Firebase Chat
-
-![React Firebase Chat Logo](https://i.imgur.com/nCjKTKs.png)
-
 Welcome to React Firebase Chat, a real-time chat application built using React and Firebase. 
-
-![Screenshot of React Firebase Chat](https://i.imgur.com/9P6KjP6.png)
-
 ## Quick Start:
 
 1. Clone the repository: `git clone https://github.com/Kushagrakamal/react-firebase-chat.git`
