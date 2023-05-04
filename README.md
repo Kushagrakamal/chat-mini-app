@@ -3,9 +3,9 @@
 
 Quick Start:
 
-:git clone
-:cd react-firebase-chat
-:create a firebase config file on /src
-:npm install
-:npm start
-[running project link ](https://chatroom-67e21.web.app/)
+<br />:git clone
+<br />:cd react-firebase-chat
+<br />:create a firebase config file on /src
+<br />:npm install
+<br />:npm start
+<br />[running project link ](https://chatroom-67e21.web.app/)
